@@ -2,7 +2,7 @@
 /* Navegação de Robôs - Trabalho 2 - IAR
     Dupla: Beatriz e Geremias
     
-    Nele temos a implementação da busca BFS, de custo uniforme e A* (a última ainda falta)
+    Nele temos a implementação da busca BFS, de custo uniforme e A* 
 
     Realizamos ele por matriz adjacência, o que não prejudicou seus tempos para o dado ambiente de entrada
 
